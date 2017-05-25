@@ -11,12 +11,9 @@ entries:
     - title: News
       url: /news.html
       output: web
-    - title: Theme instructions
-      url: /mydoc_introduction.html
+    - title: netPrefect
+      url: /nP_4_0_0_landing_page.html
       output: web
-    - title: Product 1
-      url: /p1_landing_page.html
-      output: web
-    - title: Product 2
-      url: /p2_landing_page.html
+    - title: IPMI Library
+      url: /ipmi_landing_page.html
       output: web

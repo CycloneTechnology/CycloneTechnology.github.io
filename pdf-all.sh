@@ -1,1 +1,1 @@
-. pdf-mydoc.sh; . pdf-product1.sh; .  pdf-product2.sh;
+. pdf-mydoc.sh; . pdf-nP_4_0_0.sh; .  pdf-ipmi.sh;

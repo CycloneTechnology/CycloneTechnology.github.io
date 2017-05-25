@@ -12,7 +12,8 @@ site_title: Cyclone Technology Product Docs
 company_name: Cyclone Technology Ltd
 # this appears in the footer
 
-github_editme_path: CycloneTechnology/CycloneTechnology.github.io/blob/gh-pages/
+github_editme_path:
+#CycloneTechnology/CycloneTechnology.github.io/blob/gh-pages/
 # if you're using Github, provide the basepath to the branch you've created for reviews, following the sample here. if not, leave this value blank.
 
 disqus_shortname: 
@@ -94,9 +95,8 @@ defaults:
 
 sidebars:
 - home_sidebar
-- mydoc_sidebar
-- product1_sidebar
-- product2_sidebar
+- ipmi_sidebar
+- netPrefect_sidebar
 - other
 
 description: "Cyclone Technology Product Docs."
